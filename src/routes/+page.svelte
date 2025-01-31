@@ -1,3 +1,4 @@
-<h1>Seja bem vindo!</h1>
-<p>Sinta-se à vontade...</p>
-<a href="/sobre">Sobre</a>
+<ul>
+	<li><a href="https://pedrosiqueira.github.io/ifmsjs">Javascript</a></li>
+	<li><a href="https://pedrosiqueira.github.io/ifmspy">Python</a></li>
+</ul>
